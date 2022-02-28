@@ -168,7 +168,7 @@ public class KuGou {
 		arrayList.add("clienttime=" + timeString);
 		arrayList.add("clientver=2000");
 		arrayList.add("dfid=0jIqXn09wSOI3HzAHP1u498s");
-		arrayList.add("inputtype=0");
+		arrayList.add("inputtype=1");
 		arrayList.add("iscorrection=1");
 		arrayList.add("isfuzzy=0");
 		arrayList.add("keyword=" + sname);
